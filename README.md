@@ -10,7 +10,9 @@ If have any request, comment down.
 /******************************** Example Codes **********************************/
 
 
-<?php 
+//         <?php 
+
+
 function getToken(){
 
 // upload your credentials file in same folder & rename it to  : credentials.json
@@ -95,4 +97,4 @@ $grant_type = urlencode($grant_type);
 		echo getToken();
 		
 		
-?>
+//  ?>
